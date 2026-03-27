@@ -2,8 +2,7 @@
 
 ## 🌐 Live Demo
 
-🔗 https://your-username.github.io/task-3-mazer-dashboard/
-
+🔗 https://task-3-mazer-dashboard.vercel.app
 ---
 
 ## 📌 Overview
